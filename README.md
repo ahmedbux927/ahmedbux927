@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ahmedbux927-black?logo=github"></a>
+  <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ahmedbux927/MediGen-AI-Pro"><img alt="Featured project" src="https://img.shields.io/badge/Featured_Project-MediGen_AI_Pro-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -58,7 +59,16 @@
 
 ---
 
+## Connect with me
+
 <p align="center">
-  <i>Open to collaborations in cybersecurity, SOC tooling and applied AI.</i><br>
-  <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310">Connect with me on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <b>Best way to reach me:</b> LinkedIn messages.<br>
+  I welcome professional enquiries about <b>cybersecurity &amp; SOC operations</b>,
+  <b>AI-powered tools and automation</b>, and serious collaboration opportunities.<br>
+  <i>Open to collaborations in cybersecurity, SOC tooling and applied AI.</i>
 </p>
