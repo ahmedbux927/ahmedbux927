@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/ahmedbux927/MediGen-AI-Pro"><img alt="Featured project" src="https://img.shields.io/badge/Featured_Project-MediGen_AI_Pro-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:ahmedbux927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -64,6 +65,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:ahmedbux927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
