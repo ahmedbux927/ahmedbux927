@@ -12,6 +12,10 @@
   <a href="mailto:ahmedbux927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ahmedbux927&color=0e75b6&style=flat">
+</p>
+
 ---
 
 ## About me
