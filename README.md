@@ -1,80 +1,101 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedbux927/ahmed-bux-portfolio/main/assets/banner.png" alt="Ahmed Bux — AI Specialist, SaaS Project Analyst, Cybersecurity Professional" width="100%">
+</p>
+
 <h1 align="center">Ahmed Bux</h1>
 
 <p align="center">
-  <b>Cybersecurity Professional · SOC Analyst · Linux Admin · AI Specialist</b><br>
-  Blue-team and Linux security professional from Sukkur, Sindh, Pakistan — I secure systems and build with AI.
+  <b>AI Specialist · SaaS Project Analyst · Cybersecurity Professional</b><br>
+  I build AI automations, analyse SaaS products end to end, and secure every system behind them.<br>
+  <i>Sukkur, Sindh, Pakistan · working remotely worldwide</i>
 </p>
 
 <p align="center">
+  <a href="https://ahmed-bux-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live_Site-4A1D4E?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/ahmedbux927/MediGen-AI-Pro"><img alt="Featured project" src="https://img.shields.io/badge/Featured_Project-MediGen_AI_Pro-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://wa.me/923263044880"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:ahmedbux927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ahmedbux927&color=0e75b6&style=flat">
 </p>
 
 ---
 
 ## About me
 
-- 🛡️ **Cyber Security Specialist at Al Nafi** — SOC operations, SIEM deployment (Elastic, Wazuh), IDS tuning and threat detection
+- 🤖 **AI Specialist** — AI automation and smart assistants that save hours every week; creator of a Gemini-powered pharmacy ERP
+- 📊 **SaaS Project Analyst at Quadratax** — requirements, security reviews and product roadmaps that turn ideas into buildable systems
+- 🛡️ **Cyber Security Specialist at Al Nafi** — SOC operations, Elastic SIEM & Wazuh deployment, IDS tuning, threat detection
 - 🎓 **BS Artificial Intelligence**, BBSUTSD Khairpur Mirs · **Diploma in Cloud Cyber Security** (EduQual Level 3), Al Nafi
-- 🤖 I build **AI-powered tools and automation** — including a complete pharmacy ERP with a Gemini AI assistant
-- 🐧 Linux administration, SCADA security, cloud hardening and secure system design
+- 🐧 Linux administration & hardening, cloud security, secure system design
 
-## Featured project
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [MediGen AI Pro](https://github.com/ahmedbux927/MediGen-AI-Pro)
 
-<p>
-  <img src="https://raw.githubusercontent.com/ahmedbux927/MediGen-AI-Pro/main/MediGen_Logo.png" alt="MediGen AI Pro" width="90" align="left">
-  A complete <b>Pharmacy ERP &amp; Point-of-Sale system</b> for a single-store pharmacy: billing,
-  batch-wise inventory with expiry control, purchases, cash drawer, reports and a Gemini-powered
-  assistant — running on one Windows PC, with a LAN web app and an Android companion.
-  <br><b>Python · Flask · MySQL 8 · 2,509 automated tests</b>
-</p>
+Pharmacy **ERP & Point-of-Sale** running a real store: billing, batch-wise inventory with FEFO expiry control, purchases, cash drawer and a Gemini AI assistant.
 
-<br clear="left">
+**Python · Flask · MySQL · Android**
+**2,509 automated tests · CI green**
+[Repository](https://github.com/ahmedbux927/MediGen-AI-Pro) · [Latest release](https://github.com/ahmedbux927/MediGen-AI-Pro/releases)
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio — ahmed-bux-portfolio](https://github.com/ahmedbux927/ahmed-bux-portfolio)
+
+My official portfolio: classical single-file site with designed project case studies, an AI demo assistant and a working **Supabase + Resend** contact pipeline.
+
+**HTML/CSS/JS · Vercel · Supabase · Resend**
+[Repository](https://github.com/ahmedbux927/ahmed-bux-portfolio) · [Live site](https://ahmed-bux-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+**Also designed & built:** **AdmitSecure** — secure university admissions platform (100K applicants / 500K messages per cycle, design blueprint) · **Stamp Duty Calculator** — UK SDLT in seconds · **Digital Futures** — digital platform, in progress
 
 ## Core skills
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img alt="Elastic" src="https://img.shields.io/badge/Elastic_SIEM-005571?logo=elastic&logoColor=white">
-  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-00A9E5?logo=wazuh&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-</p>
+**AI & Automation**
 
-- **Security operations:** SOC monitoring, Elastic SIEM, Wazuh, IDS/IPS tuning, threat detection & intelligence
-- **Systems:** Linux administration, SCADA security, cloud hardening (AWS/Azure basics), network security
-- **Development:** Python, Flask, MySQL, REST APIs, AI integration (Gemini), automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## GitHub stats
+**Security & Systems**
 
-<p align="center">
-  <img alt="Ahmed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedbux927&show_icons=true&theme=tokyonight" height="165">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbux927&layout=compact&theme=tokyonight" height="165">
-</p>
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20RHEL-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Pen Testing](https://img.shields.io/badge/Pen_Testing-4A1D4E?style=flat-square&logo=hackthebox&logoColor=white)
 
----
+**Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Proof, not promises
+
+| | |
+|---|---|
+| **2,509** | automated tests passing on MediGen AI Pro — CI green on every push |
+| **7K+** | LinkedIn followers in the cybersecurity community |
+| **100K / 500K** | applicants / messages per cycle in the AdmitSecure design |
+| **4** | products designed & built — ERP, admissions platform, calculator, portfolio |
 
 ## Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-bux-5a096a310"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ahmedbux927"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:ahmedbux927@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+- 🌐 **Portfolio:** [ahmed-bux-portfolio.vercel.app](https://ahmed-bux-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/ahmed-bux-5a096a310](https://www.linkedin.com/in/ahmed-bux-5a096a310)
+- 📧 **Email:** ahmedbux927@gmail.com
+- 💬 **WhatsApp:** [+92 326 3044880](https://wa.me/923263044880)
 
-<p align="center">
-  <b>Best way to reach me:</b> LinkedIn messages.<br>
-  I welcome professional enquiries about <b>cybersecurity &amp; SOC operations</b>,
-  <b>AI-powered tools and automation</b>, and serious collaboration opportunities.<br>
-  <i>Open to collaborations in cybersecurity, SOC tooling and applied AI.</i>
-</p>
+<p align="center"><i>Engineered for security, automation & reliability.</i></p>
